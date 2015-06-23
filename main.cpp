@@ -1,5 +1,5 @@
 /* 
- By Chen Shi, Git repo 6/22/2015
+ Git repo 6/22/2015
  
  This program will calculate a user's BMI value based on the provided
  weight/height and give evaluation.
